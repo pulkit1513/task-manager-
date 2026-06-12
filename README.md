@@ -3,7 +3,7 @@
 TaskFlow is a modern, full-stack Personal Task Manager (a glorified to-do list) built as a complete developer exercise. It provides a highly visual, responsive dashboard where users can create, view, edit, toggle, reorder (via drag-and-drop), and delete tasks. The interface features a dark/light mode toggle, dynamic stat cards, overdue task indicators (active tasks with due dates in the past), search filtering by title, and persistence across server restarts using a backend JSON file.
 
 🌐 Live Demo
-Frontend: [task-manager-de4qpket5-pulkit-s-projects5.vercel.app]
+Frontend: [task-manager-azure-gamma-63.vercel.app]
 Backend API: [https://task-manager-5c9w.onrender.com]
 
 ## Tech Stack
