@@ -4,7 +4,7 @@ import FilterBar from './components/FilterBar';
 import TaskForm from './components/TaskForm';
 import TaskItem from './components/TaskItem';
 
-const API_BASE = 'http://localhost:5000/api';
+ const API_BASE = 'https://task-manager-5c9w.onrender.com/api';
 
 export default function App() {
   const [tasks, setTasks] = useState([]);
